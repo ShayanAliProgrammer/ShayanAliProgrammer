@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://i.ibb.co/mq6LVTy/wallpaper.png" alt="wallpaper" border="0">
-</div>
+<h1 align="left">Hey, there I am Shayan Ali 👋</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/@coding-master-shayan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
@@ -15,13 +13,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShayanAliProgrammer.ShayanAliProgrammer&"  />
 </div>
-
-###
-
-<h1 align="center">Hey, there I am Shayan Ali 👋</h1>
 
 ###
 
