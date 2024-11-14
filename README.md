@@ -73,19 +73,18 @@
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=ShayanAliProgrammer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-  
-  <br/>
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ShayanAliProgrammer&theme=tokyonight&hide_border=false)
-  
-  <br/>
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanAliProgrammer&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-  
-  <br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanAliProgrammer&theme=auto&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
   ![](https://github-readme-activity-graph.vercel.app/graph?username=ShayanAliProgrammer&theme=tokyo-night)
 </div>
 
 ###
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
