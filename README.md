@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://drive.google.com/file/d/1CA8y1D-j0UP64IhpGrwd7bcLz6h9nlvc/preview" width="640" height="480" allow="autoplay"></iframe>
+  <img src="https://drive.google.com/file/d/1CA8y1D-j0UP64IhpGrwd7bcLz6h9nlvc/preview" width="640" height="480" />
 </div>
 
 ###
