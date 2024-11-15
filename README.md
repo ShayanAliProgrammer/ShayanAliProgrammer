@@ -73,7 +73,7 @@
 
 <div align="center">
   
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=ShayanAliProgrammer&theme=auto)
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=ShayanAliProgrammer&theme=github-light)
   
 </div>
 
