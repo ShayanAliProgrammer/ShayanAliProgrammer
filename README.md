@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a self-taught full-stack web developer from Pakistan, I code because I like coding, not just for money, but for enjoyment and solve real world problems.</p>
+<p align="left">I'm a self-taught full-stack web developer from Pakistan, I code because I like coding, not just for money, but for enjoyment and to solve real world problems.</p>
 
 ###
 
@@ -63,18 +63,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=ShayanAliProgrammer&theme=github-light)
-  
 </div>
 
 ###
