@@ -13,17 +13,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShayanAliProgrammer.ShayanAliProgrammer&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm a self-taught full-stack web developer from Pakistan, I code because I like coding, not just for money, but for enjoyment and to solve real world problems.</p>
+<p align="left">I'm a self-taught full-stack web developer from Pakistan, I code because I like coding, not just for money, but for enjoyment and solve real world problems.</p>
 
 ###
 
@@ -63,6 +57,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
