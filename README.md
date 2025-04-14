@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a self-taught full-stack web developer from Pakistan, I code because I like coding, not just for money, but for enjoyment and solve real world problems.</p>
+<p align="left">I'm a self-taught full-stack web developer from Pakistan.</p>
 
 ###
 
