@@ -58,6 +58,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=zig" height="40" alt="zig logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
